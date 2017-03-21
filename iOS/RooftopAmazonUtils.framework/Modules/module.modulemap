@@ -1,0 +1,6 @@
+framework module RooftopAmazonUtils {
+  umbrella header "RooftopAmazonUtils.h"
+
+  export *
+  module * { export * }
+}
